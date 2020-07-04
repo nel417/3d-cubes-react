@@ -1,3 +1,20 @@
+## To Use
+Click link in description.   
+  
+App has orbital controls so you can click and drag around the camera to view different angles.  
+  
+You can zoom in and out.  
+  
+By clicking on a cube, it will scale bigger or smaller.  
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
