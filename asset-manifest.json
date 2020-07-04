@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3d-cubes-react/static/css/main.71459f01.chunk.css",
+    "main.js": "/3d-cubes-react/static/js/main.a1d91910.chunk.js",
+    "main.js.map": "/3d-cubes-react/static/js/main.a1d91910.chunk.js.map",
+    "runtime-main.js": "/3d-cubes-react/static/js/runtime-main.ceaa6ad4.js",
+    "runtime-main.js.map": "/3d-cubes-react/static/js/runtime-main.ceaa6ad4.js.map",
+    "static/js/2.ced0e987.chunk.js": "/3d-cubes-react/static/js/2.ced0e987.chunk.js",
+    "static/js/2.ced0e987.chunk.js.map": "/3d-cubes-react/static/js/2.ced0e987.chunk.js.map",
+    "index.html": "/3d-cubes-react/index.html",
+    "precache-manifest.3bd018d349e154454a1490b77e087965.js": "/3d-cubes-react/precache-manifest.3bd018d349e154454a1490b77e087965.js",
+    "service-worker.js": "/3d-cubes-react/service-worker.js",
+    "static/css/main.71459f01.chunk.css.map": "/3d-cubes-react/static/css/main.71459f01.chunk.css.map",
+    "static/js/2.ced0e987.chunk.js.LICENSE.txt": "/3d-cubes-react/static/js/2.ced0e987.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaa6ad4.js",
+    "static/js/2.ced0e987.chunk.js",
+    "static/css/main.71459f01.chunk.css",
+    "static/js/main.a1d91910.chunk.js"
+  ]
+}
