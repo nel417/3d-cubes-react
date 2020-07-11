@@ -5,7 +5,9 @@ App has orbital controls so you can click and drag around the camera to view dif
   
 You can zoom in and out.  
   
-By clicking on a cube, it will scale bigger or smaller.  
+By clicking on a cube, it will scale bigger or smaller.    
+
+Thank you!
 
 
 
